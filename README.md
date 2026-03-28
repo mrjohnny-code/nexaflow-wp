@@ -1,7 +1,7 @@
 # Nexaflow WordPress Theme
 
 **Nexaflow** — это кастомная тема для WordPress, полностью натянутая с готового сайта. <br>
-Вёрстка готового сайта взята отсюда: [Nexaflow]([https://mrjohnny-code.github.io/nexaflow/](https://github.com/mrjohnny-code/nexaflow)) 
+Вёрстка готового сайта взята отсюда: [Nexaflow](https://mrjohnny-code.github.io/nexaflow/](https://github.com/mrjohnny-code/nexaflow)) 
 
 ## Демо
 
